@@ -1,7 +1,7 @@
 # MDVT: Media Dubbing Visualization Toolkit
 
 <div align="center">
-  <img src="assets/mdvt-logo.png" alt="MDVT Logo" width="250"/>
+
   <h3>Precision NLP for Multilingual Dubbing Workflows</h3>
   
   ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)

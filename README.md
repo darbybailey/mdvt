@@ -19,7 +19,7 @@ MDVT (Media Dubbing Visualization Toolkit) is a specialized platform for content
 
 The tool bridges the gap between creative content and technical localization requirements, ensuring dubbed content maintains the emotional impact and cultural nuances of the original across multiple languages.
 
-![MDVT Dashboard](assets/dashboard-screenshot.png)
+
 
 ## ✨ Key Features
 
